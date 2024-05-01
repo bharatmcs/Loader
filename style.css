@@ -1,0 +1,19 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #122933;
+  text-align: center;
+}
+h1 {
+  color: #fff;
+  margin-top: 30px;
+}
+svg {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  display: inline-block;
+}
